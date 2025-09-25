@@ -20,3 +20,4 @@ Follow these steps to set up the project locally:
 # NLP Grammar and Spell Checker
 
 ![NLP grammer](./NLP%20grammer.png)
+
